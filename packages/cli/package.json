@@ -17,13 +17,13 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"@jsnode-bekzod/local-client": "^0.1.0"
+		"@jsnode-bekzod/local-client": "^1.0.0"
 	},
 	"devDependencies": {
-		"@types/node": "^18.11.0",
-		"esbuild": "0.8.26",
-		"typescript": "^4.8.4",
 		"@jsnode-bekzod/local-api": "^1.0.0",
-		"commander": "^9.4.1"
+		"@types/node": "^18.11.0",
+		"commander": "^9.4.1",
+		"esbuild": "0.8.26",
+		"typescript": "^4.8.4"
 	}
 }
